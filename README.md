@@ -18,12 +18,12 @@ Northern University of Business and Technology, Khulna
 
 | Name | Student ID | Role |
 |---|---|---|
-| _to be added_ | _to be added_ | Team Leader |
-| _to be added_ | _to be added_ | Backend Developer |
-| _to be added_ | _to be added_ | Frontend Developer |
-| _to be added_ | _to be added_ | AI Integration Lead |
+| Md Nafew Yeasin | 11230321355 | Team Leader |
+| Mujibur Rahman Fahad | 11230321568 | AI Integration Lead |
+| Abid Hasan | 11230321553 | Frontend Developer |
+| M R Russell | 11230321545 | Backend Developer |
 
-**Team:** `CSE4104-7C-T06` · **Section:** 7C · **Institution:** NUBT Khulna
+**Team:** `CSE4104-7C-T09` · **Section:** 7C · **Institution:** NUBT Khulna
 **Course instructor:** Md. Riaz Mahmud, Assistant Professor
 
 ---
@@ -137,8 +137,8 @@ project's direction:
 Planned setup once the backend exists:
 
 ```bash
-git clone https://github.com/<org>/cse4104-7c-t06-unibuddy.git
-cd cse4104-7c-t06-unibuddy
+git clone https://github.com/<org>/cse4104-7c-t09-unibuddy.git
+cd cse4104-7c-t09-unibuddy
 
 # backend
 cd backend && npm install && cp .env.example .env   # then fill in .env
