@@ -3,7 +3,7 @@ node_modules/
 .pnp
 .pnp.js
 
-# environment — never commit real secrets
+# environment, never commit real secrets
 .env
 .env.local
 .env.*.local
