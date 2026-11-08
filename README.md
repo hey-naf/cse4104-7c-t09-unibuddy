@@ -5,12 +5,12 @@
 CSE 4104 · Software Development III · Section 7C · Fall 2026
 Northern University of Business and Technology, Khulna
 
-![status](https://img.shields.io/badge/status-week%2001%20%E2%80%94%20planning-17365D)
+![status](https://img.shields.io/badge/status-week%2002%20proposal-17365D)
 ![course](https://img.shields.io/badge/CSE%204104-Software%20Development%20III-2E7D6B)
 
-> **Status:** Week 1: team formation and idea selection. There is no application code yet.
-> This repository holds the project definition, research, and documentation. The build
-> starts in Week 6, following the course schedule.
+> **Status:** Week 2: project proposal and team information sheet submitted. There is no
+> application code yet. This repository holds the project definition, research, and
+> documentation. The build starts in Week 6, following the course schedule.
 
 ---
 
@@ -25,6 +25,20 @@ Northern University of Business and Technology, Khulna
 
 **Team:** `CSE4104-7C-T09` · **Section:** 7C · **Institution:** NUBT Khulna
 **Course instructor:** Md. Riaz Mahmud, Assistant Professor
+
+---
+
+## Project documents
+
+Formal submissions are kept in `documentation/` so the repository records what was
+handed in, not only what was built.
+
+| Week | Document | File |
+|---|---|---|
+| 1 | Initial project vision | `documentation/01-project-vision.pdf` |
+| 1 | Team formation and initial project idea | `documentation/02-week01-submission.pdf` |
+| 2 | Project proposal | `documentation/03-week02-proposal.pdf` |
+| 2 | Team information sheet | `documentation/04-week02-team-info.pdf` |
 
 ---
 
@@ -193,7 +207,7 @@ Not `update`, `done`, `work`, or `final`.
 
 | Weeks | Milestone |
 |---|---|
-| 1-2 | Idea, research, proposal, repository setup |
+| 1-2 | Idea, research, proposal, repository setup (complete) |
 | 3-4 | SRS, architecture, ER diagram, API contract |
 | 5 | Figma wireframes for the four core screens |
 | 6 | Backend: auth, schema, CRUD APIs |
