@@ -151,7 +151,7 @@ project's direction:
 Planned setup once the backend exists:
 
 ```bash
-git clone https://github.com/<org>/cse4104-7c-t09-unibuddy.git
+git clone https://github.com/hey-naf/cse4104-7c-t09-unibuddy.git
 cd cse4104-7c-t09-unibuddy
 
 # backend
